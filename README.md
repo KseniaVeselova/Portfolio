@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @KseniaVeselova
 - 🌱 I’m currently learning Data Analysis (Python, SQL)
-During 6 month i have learned ...
-
 
 Project 1 – Data preprocessing -  Research of Borrowers' Reliability
 Libraries: pandas, pymystem3
