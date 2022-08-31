@@ -8,9 +8,11 @@ During my previous experience I realized how essential the data is.
 I really enjoy to research and investigate problems by using data.
 It encouraged me to take the Data Analyst professional training course offered by Yandex.
 
-I 'd like to develop as a data specialist and looking for new opportunities in the data analysis field. I am ready to put in a lot of effort to become a good specialist in this field.
+I'd like to develop as a data specialist and looking for new opportunities in the data analysis field. 
 
-My study projects:
+In June I got a one-month internship in a Swedish company named Health Integrator and passed it successfully. During internship I learnt a new tool – Google Data Studio.
+
+My Python study projects:
 Project 1 – Data preprocessing -  Research of Borrowers' Reliability
 Tools: Jupyter Notebook Libraries: pandas, pymystem3
 
