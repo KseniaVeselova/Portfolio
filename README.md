@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @KseniaVeselova
-- 🌱 I’m currently learning Data Analysis (Python, SQL)
+- 🌱 I’m currently learning Data Analysis (Python, SQL, BigQuery and others)
 
 Junior Data analyst/scientist.
-In June 2022 I completed Yandex data analyst professional training course.
-During my previous experience I realized how essential the data is.
+In June 2022 I completed Yandex data analyst professional training course (350 hours).
+During my previous experience I worked with data which recived from construction side. I worked as BIM-manager.
 
 I really enjoy to research and investigate problems by using data.
 It encouraged me to take the Data Analyst professional training course offered by Yandex.
