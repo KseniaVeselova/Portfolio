@@ -13,6 +13,7 @@ I'd like to develop as a data specialist and looking for new opportunities in th
 In June I got a one-month internship in a Swedish company named Health Integrator and passed it successfully. During internship I learnt a new tool – Google Data Studio.
 
 My Python study projects:
+
 Project 1 – Data preprocessing -  Research of Borrowers' Reliability
 Tools: Jupyter Notebook Libraries: pandas, pymystem3
 
